@@ -4,14 +4,13 @@ A modern, real-time AI chatbot built with Next.js 15, React 19, and TypeScript. 
 
 ## Demo Video
 
-[Watch the demo walkthrough](YOUR_VIDEO_LINK_HERE)
+[Watch the demo walkthrough](https://youtu.be/luqk8tXQ3KM)
 
 ## Features
 
 ### Core Features
 
 - [x] **Chat Interface**
-
   - [x] Message list showing user and AI messages
   - [x] Auto-scroll to latest message
   - [x] Visual distinction between user/AI messages
@@ -22,14 +21,12 @@ A modern, real-time AI chatbot built with Next.js 15, React 19, and TypeScript. 
   - [x] Character limit indicator (2000 chars)
 
 - [x] **Real-Time Communication (SSE)**
-
   - [x] Connection status indicator (Connecting/Connected/Disconnected/Error)
   - [x] Automatic reconnection logic (3 attempts with 2s delay)
   - [x] Manual reconnect button
   - [x] Graceful error handling
 
 - [x] **Streaming AI Responses**
-
   - [x] Real-time token-by-token display
   - [x] Typing indicator while waiting for first chunk
   - [x] Streaming cursor animation
